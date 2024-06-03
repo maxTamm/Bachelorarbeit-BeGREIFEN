@@ -36,4 +36,4 @@ void closeValves() {
   }
 }
 ```
-![Prototyp Bilder](IMG_1371.jpg)
+![Prototyp Bilder](PrototypBilder)
