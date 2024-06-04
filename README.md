@@ -1,4 +1,4 @@
-# Bachelorarbeit-Tastsinn
+# Bachelorarbeit-BeGREIFEN
 Aktueller Stand des Codes und Prototypenbau
 ```
 // Definition der Pins für die Ventile
